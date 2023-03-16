@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- FAVICON -->
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <!-- BOOTSTRAP ICONS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+    <!-- FUENTE -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&amp;display=swap" rel="stylesheet">
+    <!-- TOASTIFY -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <!-- CSS -->
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Génesis Music | Tu Tienda Musical</title>
+</head>
+<body>
+    <div class="contenedor">
+        <aside>
+            <header>
+                <h1 class="logo">Génesis Music</h1>
+            </header>
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <button class="boton-menu boton-categoria active" id="todos-los-productos"><i class="bi bi-soundwave"></i>Todos los productos</button>
+                    </li>
+                    <li>
+                        <button class="boton-menu boton-categoria" id="guitarras"><i class="bi bi-soundwave"></i>Guitarras</button>
+                    </li>
+                    <li>
+                        <button class="boton-menu boton-categoria" id="bajos"><i class="bi bi-soundwave"></i>Bajos</button>
+                    </li>
+                    <li>
+                        <button class="boton-menu boton-categoria" id="accesorios"><i class="bi bi-soundwave"></i>Accesorios</button>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-carrito" href="./carrito.html">
+                            <i class="bi bi-cart-fill"></i>Carrito <span class="numero" id="numerito">0</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+            <footer>
+                <p class="texto-footer">© 2023 Génesis Music</p>
+            </footer>
+        </aside>
+        <main>
+            <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
+            <div id="contenedor-productos" class="contenedor-productos">
+                
+            </div>
+        </main>
+    </div>
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="./js/main.js"></script>
+</body>
+</html>

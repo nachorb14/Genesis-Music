@@ -1,0 +1,172 @@
+[
+    {
+        "id": "guitarra-01",
+        "titulo": "Guitarra Electroacústica Parquer Dreadnought",
+        "imagen": "./img/Guitarras/guitarra-parquer.png",
+        "categoria": {
+            "nombre": "Guitarras",
+            "id": "guitarras"
+        },
+        "precio": 70000
+    },
+    {
+        "id": "guitarra-02",
+        "titulo": "Guitarra Acústica Taylor BT-2",
+        "imagen": "./img/Guitarras/guitarra-taylor.png",
+        "categoria": {
+            "nombre": "Guitarras",
+            "id": "guitarras"
+        },
+        "precio": 268000
+    },
+    {
+        "id": "guitarra-03",
+        "titulo": "Guitarra Electroacústica Cort Ad810",
+        "imagen": "./img/Guitarras/guitarra-cort.png",
+        "categoria": {
+            "nombre": "Guitarras",
+            "id": "guitarras"
+        },
+        "precio": 138000
+    },
+    {
+        "id": "guitarra-04",
+        "titulo": "Guitarra Electroacústica Fender Cc60sce",
+        "imagen": "./img/Guitarras/guitarra-fender.png",
+        "categoria": {
+            "nombre": "Guitarras",
+            "id": "guitarras"
+        },
+        "precio": 315000
+    },
+    {
+        "id": "guitarra-05",
+        "titulo": "Guitarra Eléctrica Gretsch Electromatic",
+        "imagen": "./img/Guitarras/guitarra-electrica-gretsch.png",
+        "categoria": {
+            "nombre": "Guitarras",
+            "id": "guitarras"
+        },
+        "precio": 937000
+    },
+    {
+        "id": "guitarra-06",
+        "titulo": "Guitarra Eléctrica Epiphone Les Paul",
+        "imagen": "./img/Guitarras/guitarra-electrica-epiphone.png",
+        "categoria": {
+            "nombre": "Guitarras",
+            "id": "guitarras"
+        },
+        "precio": 300000
+    },
+    {
+        "id": "guitarra-07",
+        "titulo": "Guitarra Eléctrica Squier Stratocaster",
+        "imagen": "./img/Guitarras/guitarra-electrica-squier.png",
+        "categoria": {
+            "nombre": "Guitarras",
+            "id": "guitarras"
+        },
+        "precio": 290000
+    },
+    {
+        "id": "bajo-01",
+        "titulo": "Bajo Fender American Vintage 75",
+        "imagen": "./img/Bajos/bajo-fender.png",
+        "categoria": {
+            "nombre": "Bajos",
+            "id": "bajos"
+        },
+        "precio": 2290000
+    },
+    {
+        "id": "bajo-02",
+        "titulo": "Bajo Squier Jazz Bass Contemporary",
+        "imagen": "./img/Bajos/bajo-squier.png",
+        "categoria": {
+            "nombre": "Bajos",
+            "id": "bajos"
+        },
+        "precio": 330700
+    },
+    {
+        "id": "bajo-03",
+        "titulo": "Bajo Parquer BP100",
+        "imagen": "./img/Bajos/bajo-parquer.png",
+        "categoria": {
+            "nombre": "Bajos",
+            "id": "bajos"
+        },
+        "precio": 115000
+    },
+    {
+        "id": "bajo-04",
+        "titulo": "Bajo Yamaha Precision Bass",
+        "imagen": "./img/Bajos/bajo-yamaha.png",
+        "categoria": {
+            "nombre": "Bajos",
+            "id": "bajos"
+        },
+        "precio": 225000
+    },
+    {
+        "id": "bajo-05",
+        "titulo": "Bajo Cort Action 5 Cuerdas",
+        "imagen": "./img/Bajos/bajo-cort.png",
+        "categoria": {
+            "nombre": "Bajos",
+            "id": "bajos"
+        },
+        "precio": 240000
+    },
+    {
+        "id": "accesorio-01",
+        "titulo": "Baquetas Vic Firth 5a Punta Nylon",
+        "imagen": "./img/Accesorios/baquetas-vic-firth.png",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 5800
+    },
+    {
+        "id": "accesorio-02",
+        "titulo": "Baquetas Vic Firth 7a Punta Madera",
+        "imagen": "./img/Accesorios/baquetas-vic-firth-7a.png",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "accesorio-03",
+        "titulo": "Correa Tijuana Acolchonada Gamuza",
+        "imagen": "./img/Accesorios/correa-tijuana.png",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 4900
+    },
+    {
+        "id": "accesorio-04",
+        "titulo": "Afinador Musedo Digital Pinza Clip",
+        "imagen": "./img/Accesorios/afinador-guitarra.png",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "accesorio-05",
+        "titulo": "Puas Alice Pack x10 Varios Calibres",
+        "imagen": "./img/Accesorios/puas-varias.png",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "accesorios"
+        },
+        "precio": 1000
+    }
+]
