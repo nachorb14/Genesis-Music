@@ -369,9 +369,6 @@ main {
         justify-content: flex-start;
         padding: .5rem;
     }
-    .carrito-funciones-total {
-        display: none;
-    }
 
     .carrito-funciones {
         flex-wrap: wrap;
