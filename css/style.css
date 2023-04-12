@@ -369,6 +369,10 @@ main {
         justify-content: flex-start;
         padding: .5rem;
     }
+    
+    .carrito-producto-total {
+        display: none;
+    }
 
     .carrito-funciones {
         flex-wrap: wrap;
