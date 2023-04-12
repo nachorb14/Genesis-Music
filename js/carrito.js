@@ -38,7 +38,7 @@ function cargarProductosCarrito (){
                                 <small>Precio</small>
                                 <p>$${producto.precio}</p>
                             </div>
-                            <div class="carrito-producto-tota">
+                            <div class="carrito-producto-total">
                                 <small>Subtotal</small>
                                 <p>$${producto.precio * producto.cantidad}</p>
                             </div>
